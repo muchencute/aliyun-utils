@@ -2,7 +2,7 @@ class AliyunUtils {
 
     /**
      * 签名
-     * @returns {string}
+     * @returns {string} 签名结果
      */
     static signature() {
         return 'empty';
